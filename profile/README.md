@@ -4,5 +4,5 @@
   </a>
 </p>
 <h1 align="center">Collective</h1>
-<h2>Welcome to the Collective.</h2>
+<h2 align="center">Welcome to the Collective.</h2>
 
